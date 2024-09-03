@@ -3,22 +3,24 @@ It's an operational transconductance amplifier (OTA) topology
 
 Specs:
 
-Technology                                       GF180MCU
+Technology --> GF180MCU
 
-Supply voltage                                     2.5V
+Supply voltage --> 2.5V
 
-Closed loop gain                                    2
+Closed loop gain --> 2
 
-Phase margin at the required ACL              >= 70 degrees
+Phase margin at the required ACL --> >= 70 degrees
 
-CM input range – low                              <= 0
+CM input range – low --> <= 0
 
-CM input range – high                             >= 1V
+CM input range – high --> >= 1V
 
-Differential output swing                     1.2Vpk-to-pk
+Differential output swing --> 1.2Vpk-to-pk
 
-Capacitive load                                  500 fF
+Capacitive load --> 500 fF
 
-DC Loop gain                                      60dB
+DC Loop gain --> 60dB
 
-Application             negative feedback inverting topology using Cin= 2 pF, CF= 1 pF
+Application:
+
+negative feedback inverting topology using Cin= 2 pF, CF= 1 pF
