@@ -22,8 +22,7 @@ DC Loop gain --> 60 dB
 
 CL settling time for 1% error --> 100 ns
 
-Application:
-
+Application: 
 negative feedback inverting topology using Cin= 2 pF, CF= 1 pF.
 
 The Design using Analog designers toolbox (ADT) and open & closed-loop simulations on Cadence virtuoso
