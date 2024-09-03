@@ -20,7 +20,7 @@ Capacitive load --> 500 fF
 
 DC Loop gain --> 60 dB
 
-CL settling time for 1% error --> 100 ns
+CL settling time for 1 % error --> 100 ns
 
 Application: 
 negative feedback inverting topology using Cin= 2 pF, CF= 1 pF.
